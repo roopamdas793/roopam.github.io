@@ -1,0 +1,133 @@
+---
+title: "Why Git, GitHub and R Are Good Friends"
+author: "Roopam Das/401060784/das.roopam@stud.hs-fresenius.de"
+format:
+  revealjs:
+    footer: "Use of Git and GitHub in Professional World"
+    transition: slide
+    self-contained: true
+editor: source
+---
+
+# Introduction
+
+This presentation explains why Git, GitHub and R work effectively when combined in software development and analytical workflows. These tools integrate into a structured, collaborative, and reproducible system. Git is a version manager, GitHub supports collaboration and accessibility, and R is a powerful statistical and data-analysis environment. Together, they support documentation, clarity in decision-making, and efficient project flow.
+
+![](images/1.jpg){width="40%" fig-align="right"}
+
+# Understanding Git
+
+Git is a distributed version control system that tracks changes, protects analytical work, and allows experimentation safely.
+
+## Key Functions
+
+-   Maintains historical snapshots
+-   Supports branching for experimentation
+-   Prevents conflicts in collaborative work
+-   Enables restoration of previous versions
+-   Provides a transparent audit trail
+
+![](images/2.jpg){width="40%" fig-align="right"}
+
+# Understanding GitHub
+
+GitHub is a cloud-based platform built on Git, providing collaboration, automation, and version-controlled project management.
+
+## Collaboration Features
+
+-   Pull requests
+-   Issue tracking
+-   Project boards
+-   Automated testing
+-   Cloud repository hosting
+
+![](images/3.jpg){width="40%" fig-align="right"}
+
+# Understanding R
+
+R is an open-source analytic environment for statistical modelling, visualization, and reproducible research.
+
+## Key Features
+
+-   Thousands of packages for modelling and automation
+-   High-quality visualizations
+-   Tidyverse, RMarkdown, and Quarto support workflow organization
+-   Strong emphasis on transparency and reproducibility
+
+![](images/4.jpg){width="40%" fig-align="right"}
+
+# Why These Tools Complement Each Other
+
+Git, GitHub, and R each serve unique purposes but integrate seamlessly for effective workflows.
+
+## Why They Work Together
+
+-   Git organizes analytical code
+-   GitHub manages collaboration
+-   R performs modelling and visualization
+-   Integration reduces errors
+-   Ensures reproducible workflows
+
+![](images/5.jpg){width="40%" fig-align="right"}
+
+# Enhancing Reproducible Research
+
+Version control workflows strengthen transparency and long-term collaboration
+
+## Reproducibility is essential in modern analytics
+
+-   Git records every analytical decision
+-   GitHub shares decisions with teams
+-   R executes computation transparently
+-   R Markdown and Quarto ensure synchronized documentation
+
+![](images/6.jpg){width="80%" fig-align="right"}
+
+# Supporting Collaboration and Teamwork
+
+Git and GitHub provide structure and accountability.
+
+## Team Advantages
+
+-   Parallel development via branching
+-   Peer-review via pull requests
+-   Issue tracking improves communication
+-   Encourages coordinated development
+-   Maintains project consistency
+
+![](images/7.jpg){width="40%" fig-align="right"}
+
+# Improving Project Organization
+
+Git and GitHub ensuring clear version tracking, seamless collaboration, and a well-organized analytical environment.
+
+## Git and GitHub strengthen project structure for R workflows.
+
+-   Versioning preserves scripts, figures, and data
+-   GitHub offers planning, reviews, and discussions
+-   Encourages frequent, meaningful commits
+-   Supports scalable and complex projects
+
+![](images/8.jpg){width="40%" fig-align="right"}
+
+# Real-World Applications
+
+Git, GitHub, and R support data-driven processes in many sectors.
+
+## Common Use Cases
+
+-   Reproducible research
+-   Forecasting and dashboards
+-   Government data transparency
+-   Open-source R package development
+-   Education in analytics
+
+![](images/9.jpg){width="40%" fig-align="right"}
+
+# Conclusion
+
+Git, GitHub, and R form a complementary ecosystem for analytical work. Together, they create a reproducible, transparent, and collaborative environment that strengthens data science practice across industries.
+
+![](images/10.jpg){width="40%" fig-align="right"}
+
+# Thank You
